@@ -5,8 +5,7 @@
 int i;
 short int contacto = 0,
           foto_Resistencia_Digital;
-double  temperatura = 0,
-        foto_Resistencia_Analogica = 0,
+double  foto_Resistencia_Analogica = 0,
         infrarojo = 0;
 char buff[20];  //Buffer serial;
 
