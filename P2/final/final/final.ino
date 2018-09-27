@@ -1,6 +1,6 @@
 #include<string.h> //para strcmp() compara cadenas
 #include<math.h>
-
+//Cambios en archivo
 //Variables globales
 int i;
 short int contacto = 0,
